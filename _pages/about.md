@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> ### To die for the people is weightier than Mount Tai, but to work for the fascists and die for the exploiters and oppressors is lighter than a feather.
+> To die for the people is weightier than Mount Tai, but to work for the fascists and die for the exploiters and oppressors is lighter than a feather.
 > Mao Tse Tung’s “Serve The People” speech on September 8, 1944
 
 The Mount Tai Study Circle is a Marxist study circle founded in 2021 in NYC by a group of comrades who have undertaken a rigorous study of MLM. The founders of this circle understand firsthand the value of studying these challenging fundamental texts with others rather than in isolation. We realized that there are many people in the NYC area and beyond that are interested in studying these concepts but do not know where to start. 
