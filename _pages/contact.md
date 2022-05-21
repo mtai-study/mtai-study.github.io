@@ -4,6 +4,12 @@ title: Contact Us
 permalink: /contact/
 ---
 
-## Join the study circle
+### Email
 
-## Fill out the form and we will contact you!
+Contact us with any questions at:
+* mtai.study@gmail.com
+* mounttaistudies@protonmail.com
+
+### Want to join?
+
+Fill out the form below and we will contact you!
