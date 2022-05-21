@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 > To die for the people is weightier than Mount Tai, but to work for the fascists and die for the exploiters and oppressors is lighter than a feather.
-
-> Mao Tse Tung’s “Serve The People” speech on September 8, 1944
+>  -- Mao Tse Tung’s “Serve The People” speech on September 8, 1944
 
 ---
 
