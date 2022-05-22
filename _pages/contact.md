@@ -6,7 +6,7 @@ permalink: /contact/
 
 ### Email
 
-Contact us with any questions at:
+Reach out to us with any questions at:
 * mtai.study@gmail.com
 * mounttaistudies@protonmail.com
 
